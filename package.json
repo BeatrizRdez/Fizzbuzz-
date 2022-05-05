@@ -1,0 +1,23 @@
+{
+  "name": "fizzbuzz-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeatrizRdez/Fizzbuzz-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeatrizRdez/Fizzbuzz-/issues"
+  },
+  "homepage": "https://github.com/BeatrizRdez/Fizzbuzz-#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
