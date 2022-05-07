@@ -7,7 +7,7 @@
     "test": "jest",
     "linter": "node ./node_modules/eslint/bin/eslint.js .",
     "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix"
-  }
+ 
   },
   "repository": {
     "type": "git",
@@ -24,4 +24,4 @@
     "eslint": "^8.14.0",
     "jest": "^28.0.3"
   }
-
+}
